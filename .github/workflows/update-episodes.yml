@@ -21,6 +21,11 @@ jobs:
       - name: Build episodes.json
         run: python scripts/update_episodes.py
 
+      - name: Sync new episodes to Webflow
+        env:
+          WEBFLOW_TOKEN: ${{ secrets.WEBFLOW_TOKEN }}
+        run: python scripts/sync_webflow.py
+
       - name: Commit if changed
         id: commit
         run: |
