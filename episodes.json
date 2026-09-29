@@ -1,7 +1,22 @@
 {
-  "updated": "2026-09-17T12:11:10.206118Z",
-  "count": 27,
+  "updated": "2026-09-29T19:25:50.409807Z",
+  "count": 28,
   "episodes": [
+    {
+      "name": "Mystra's Glen Cryptid Club: Batsquatch",
+      "shortTitle": "Batsquatch",
+      "slug": "cryptid-club-batsquatch",
+      "series": "Cryptid Club",
+      "season": null,
+      "episode": 9,
+      "published": "2026-09-29T12:45:00Z",
+      "duration": "00:19:37",
+      "audioUrl": "https://tracking.swap.fm/track/WgbGgxzM3MFRwjmX5fnx/rss.art19.com/episodes/d4e077ce-f59e-4eab-8bfb-8309209d6831.mp3?rss_browser=BAhJIhhidWRhbmRoZXJiLWVwaXNvZGVzBjoGRVQ%3D--e4d293c03c4d6bf61e590a74c38d71e4aeac1bf0",
+      "cover": "https://content.production.cdn.art19.com/images/47/f7/7e/12/47f77e12-14ee-426a-8b69-be9e111df63b/2d81d0869cf4631e1ef53ed4f4251dcdc98272a00b4b449f1931473daa856c51c36c9ddb8625c7cbc61bb5269e322660bd48e885251f138d24de43dc7aa6ced9.jpeg",
+      "summary": "Dive into the Mystra's Glen Cryptid Club Archives with Bud & Herb! This week they are talking about the largest (but maybe not the fuzziest?) vigilante of the Cryptid world: Batsquatch.",
+      "showNotes": "<p>Cast:&nbsp;</p><p>Crygglinexxerflump “Bud” Buddlicker: Evan Bivins</p><p>Herb: Anna Fitzgerald</p><p><br></p><p>Created by: Evan Bivins &amp; Anna Fitzgerald</p><p>Produced &amp; Edited: Evan Bivins &amp; Anna Fitzgerald</p><p>Sound Design: Evan Bivins</p><p><br></p><p>Character and Poster Art:&nbsp;<a href=\"https://www.taryncozzy.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Taryn Cozzy</a></p><p><br></p><p>Special Thanks:</p><p>Alejandro Tey</p><p>Seth McKay</p><p><a href=\"https://www.youtube.com/@EnterThePocketDimension\" rel=\"noopener noreferrer\" target=\"_blank\">The Pocket Dimension</a></p>",
+      "guid": "gid://art19-episode-locator/V0/f95cyCNW7swjaeTxK_gDT_y2cOAxXGM6mt2cGDFvCg8"
+    },
     {
       "name": "Mystra's Glen Cryptid Club: Grab Ass Jack",
       "shortTitle": "Grab Ass Jack",
