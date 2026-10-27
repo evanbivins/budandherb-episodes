@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-13T20:15:37.103800Z",
-  "count": 29,
+  "updated": "2026-10-27T19:25:59.051262Z",
+  "count": 30,
   "episodes": [
+    {
+      "name": "Mystra's Glen Cryptid Club: Pop a Kappa in That Ass",
+      "shortTitle": "Pop a Kappa in That Ass",
+      "slug": "cryptid-club-pop-a-kappa-in-that-ass",
+      "series": "Cryptid Club",
+      "season": null,
+      "episode": null,
+      "published": "2026-10-27T12:30:00Z",
+      "duration": "00:36:06",
+      "audioUrl": "https://tracking.swap.fm/track/WgbGgxzM3MFRwjmX5fnx/rss.art19.com/episodes/d9042adb-6faa-4148-a734-0acc349509c5.mp3?rss_browser=BAhJIhhidWRhbmRoZXJiLWVwaXNvZGVzBjoGRVQ%3D--e4d293c03c4d6bf61e590a74c38d71e4aeac1bf0",
+      "cover": "https://content.production.cdn.art19.com/images/be/02/67/5b/be02675b-cf5d-4141-bcff-b618de86c495/14346a96e612ad67ecab247b8b61d895da9aabfbacbaa193e7b49f53ea6e25cdcea6d24bfc052e7e7e2d4a962c00acdaa3ee75f1e4d2ecf8b7235871299c95a3.jpeg",
+      "summary": "Dive into the Mystra's Glen Cryptid Club Archives with Bud & Herb! This week they are talking about the politest bum enthusiast: Kappa!",
+      "showNotes": "<p>Cast:&nbsp;</p><p>Crygglinexxerflump “Bud” Buddlicker: Evan Bivins</p><p>Herb: Anna Fitzgerald</p><p><br></p><p>Created by: Evan Bivins &amp; Anna Fitzgerald</p><p>Produced &amp; Edited: Evan Bivins &amp; Anna Fitzgerald</p><p>Sound Design: Evan Bivins</p><p><br></p><p>Character and Poster Art:&nbsp;<a href=\"https://www.taryncozzy.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Taryn Cozzy</a></p><p><br></p><p>Special Thanks:</p><p>Alejandro Tey</p><p>Seth McKay</p><p><a href=\"https://www.youtube.com/@EnterThePocketDimension\" rel=\"noopener noreferrer\" target=\"_blank\">The Pocket Dimension</a></p>",
+      "guid": "gid://art19-episode-locator/V0/8bwolYPWDay7wb2Reof4GRPxG6GX3rLUhFwhp6vpqBc"
+    },
     {
       "name": "The Harvest Part 2",
       "shortTitle": "The Harvest Part 2",
