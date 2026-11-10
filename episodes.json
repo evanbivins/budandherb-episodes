@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-27T19:25:59.051262Z",
-  "count": 30,
+  "updated": "2026-11-10T20:49:31.184816Z",
+  "count": 31,
   "episodes": [
+    {
+      "name": "Mystra's Glen Cryptid Club: Down to Sandown Clown",
+      "shortTitle": "Down to Sandown Clown",
+      "slug": "cryptid-club-down-to-sandown-clown",
+      "series": "Cryptid Club",
+      "season": null,
+      "episode": null,
+      "published": "2026-11-10T13:30:00Z",
+      "duration": "00:36:31",
+      "audioUrl": "https://tracking.swap.fm/track/WgbGgxzM3MFRwjmX5fnx/rss.art19.com/episodes/61613d62-cc90-44e4-80a2-9c02eae906bc.mp3?rss_browser=BAhJIhhidWRhbmRoZXJiLWVwaXNvZGVzBjoGRVQ%3D--e4d293c03c4d6bf61e590a74c38d71e4aeac1bf0",
+      "cover": "https://content.production.cdn.art19.com/images/74/7a/e4/47/747ae447-ae53-4fd5-8de4-113523a5239e/aaee535026a71cc109597bad5530862c15c090853e2f94ae278c04be4f75cc94cfcb1ab6ac06a6ef3eb46771e9766e71dbcce0713c57dfd7df5d977b2af1c86d.jpeg",
+      "summary": "Dive into the Mystra's Glen Cryptid Club Archives with Bud & Pickle! While Herb is on vacation with Garland, Bud and Pickle have a research party with the Sandown Clown.",
+      "showNotes": "<p>Cast:&nbsp;</p><p>Crygglinexxerflump “Bud” Buddlicker &amp; Pickle: Evan Bivins</p><p><br></p><p>Created by: Evan Bivins &amp; Anna Fitzgerald</p><p>Produced &amp; Edited: Evan Bivins &amp; Anna Fitzgerald</p><p>Sound Design: Evan Bivins</p><p><br></p><p>Character and Poster Art:&nbsp;<a href=\"https://www.taryncozzy.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Taryn Cozzy</a></p><p><br></p><p>Special Thanks:</p><p>Alejandro Tey</p><p>Seth McKay</p><p><a href=\"https://www.youtube.com/@EnterThePocketDimension\" rel=\"noopener noreferrer\" target=\"_blank\">The Pocket Dimension</a></p>",
+      "guid": "gid://art19-episode-locator/V0/_-iGyFCxiScFLM4sRdCDOmAKXhsssvGPbe4aOs07O5o"
+    },
     {
       "name": "Mystra's Glen Cryptid Club: Pop a Kappa in That Ass",
       "shortTitle": "Pop a Kappa in That Ass",
